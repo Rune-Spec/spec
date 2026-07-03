@@ -1,0 +1,6 @@
+# Personal, per-machine agent overlays - never tracked
+CLAUDE.local.md
+AGENTS.override.md
+
+# OS artifacts
+.DS_Store
